@@ -12,7 +12,7 @@
         "axios": "^1.6.4",
         "laravel-vite-plugin": "^1.0.0",
         "postcss": "^8.4.31",
-        "vite": "^4.5.5"
+        "vite": "^5.4.11"
     },
     "resolutions": {
         "vite": "^5.4.11"
